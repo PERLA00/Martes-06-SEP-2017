@@ -92,7 +92,8 @@ public class actividades {
     }//Fin multiplicacion 3
     
     public void adivinanza(){
-        System.out.println("----Ejercicio 5----");
+        System.out.println("----PERLA----");
+        
         System.out.println("Adivina el Numero");
         Random r3=new Random();
         
