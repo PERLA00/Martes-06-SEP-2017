@@ -54,7 +54,9 @@ public class Practica3 {
         case 5:
             datos.adivinanza();
             break;
-        
+        case 6:
+            datos.tarjeta();
+            break;
     }
     
     }
